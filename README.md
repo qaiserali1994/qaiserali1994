@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Qaiser</h1>
 <h3 align="center">Senior Software Engineer</h3>
-<img align="right" alt="coding" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif" style="max-width: 25%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="coding" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif" style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaiserali1994&label=Profile%20views&color=0e75b6&style=flat" alt="qaiserali1994" /> </p>
 
 - 🔭 I’m currently working on **Repository Investment Management**
